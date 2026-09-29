@@ -34,6 +34,7 @@ INSTALLED_APPS = [
 
     #ebse apps
     "apps.users",
+    "apps.core",
 ]
 
 MIDDLEWARE = [
